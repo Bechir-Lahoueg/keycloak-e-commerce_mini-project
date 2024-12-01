@@ -1,4 +1,4 @@
-##Keycloak E-Commerce Mini Project
+#Keycloak E-Commerce Mini Project
 #A mini e-commerce project integrating Keycloak for identity and access management.
 
 Features
